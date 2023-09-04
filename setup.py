@@ -6,9 +6,10 @@ setup(
     packages=find_packages(),
     install_requires=[],
     author='Oscar Vargas',
-    author_email='oscar.email@gmail.com',
+    author_email='oscarvargas.dev.01@gmail.com',
     description='Métodos de programación numérica',
     license='MIT',
     keywords='programación numérica, metodos numericos, bisección, regula falsi, newton-raphson, secante, ',
-    url='URL del repositorio del proyecto',
+    url='https://github.com/oscarvargasdev/metodos-numericos',
+    python_requires='>=3.6',
 )

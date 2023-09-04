@@ -17,7 +17,7 @@ Una herramienta poderosa para aquellos apasionados por la matemática y programa
 ## 🛠️ Requisitos
 
 - 🐍 Python >= 3.6
-- 🔧 [Cualquier otra dependencia que tenga el paquete]
+- 🔧 [Por ahora no hay otra dependencia adicional]
 
 ---
 
@@ -43,7 +43,7 @@ print(resultado)
 
 🔍 Si encuentras algún error o 💡 deseas proponer una mejora, ¡tu ayuda es bienvenida! Puedes:
 
-- Abrir un [issue](LINK_AL_REPOSITORIO/issues) en nuestro repositorio.
+- Abrir un [issue](https://github.com/oscarvargasdev/metodos-numericos/issues) en nuestro repositorio.
 - Enviar un [pull request](LINK_AL_REPOSITORIO/pulls) con tus cambios.
 
 ---
@@ -58,9 +58,9 @@ Este paquete se distribuye bajo la licencia **MIT**. ¿Quieres conocer más deta
 
 ¿Tienes comentarios, dudas o sugerencias? Estamos aquí para ayudarte:
 
-- 🙍‍♂️ **Nombre**: [Tu nombre]
+- 🙍‍♂️ **Nombre**: Oscar Fernando Vargas
 - 📧 **Email**: [oscarvargas.dev.01@gmail.com](mailto:oscarvargas.dev.01@gmail.com)
-- 🌐 **GitHub**: [@tu_usuario_github](https://github.com/tu_usuario_github)
+- 🌐 **GitHub**: [@oscarvargasdev](https://github.com/oscarvargasdev)
 
 ---
 
